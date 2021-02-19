@@ -1,7 +1,8 @@
-<Version: 2.15>
+<Version: 2.16>
 /js/plugins/SRD_GameUpgrade.js https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/SRD_GameUpgrade.js
 /js/plugins/SRD_MasterVolume.js https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/SRD_MasterVolume.js
 /js/plugins/SRD_PreloaderCore.js https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/SRD_PreloaderCore.js
 /js/plugins/SRD_PressStart.js https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/SRD_PressStart.js
 /js/plugins.js https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/plugins.js
+/img/SumRndmDde/MadeWithMv.png https://i.ibb.co/7Nf6rXT/Made-With-Mv.png
 <End of Version>
