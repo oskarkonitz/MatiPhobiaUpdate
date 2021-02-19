@@ -1,3 +1,3 @@
 <Version: 1.02>
-/img/system/MadeWithMv.png https://i.ibb.co/7Nf6rXT/Made-With-Mv.png
+/img/system/MadeWithokMv.png https://i.ibb.co/7Nf6rXT/Made-With-Mv.png
 <End of Version>
