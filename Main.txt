@@ -1,4 +1,4 @@
-<Version: 2.17>
+<Version: 2.18>
 /data/Map009.json https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/Map009.json
 /data/Map020.json https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/Map020.json
 <End of Version>
