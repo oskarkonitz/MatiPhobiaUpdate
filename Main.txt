@@ -14,5 +14,5 @@
 /js/plugins.js https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/plugins.js
 /js/plugins/GALV_TitleCommands.js https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/GALV_TitleCommands.js
 /img/characters/!Chest.png https://i.ibb.co/sWDTnY8/Chest.png
-/movies/HP.webm https://github.com/oskarkonitz/MatiPhobiaUpdate/blob/main/movies/hppp.webm?raw=true
+/movies/hppp.webm https://github.com/oskarkonitz/MatiPhobiaUpdate/blob/main/movies/hppp.webm?raw=true
 <End of Version>
