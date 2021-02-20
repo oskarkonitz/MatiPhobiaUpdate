@@ -8,4 +8,5 @@
 /data/Actors.json https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/Actors.json
 /data/Map021.json https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/Map021.json
 /data/System.json https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/System.json
+/data/Map002.json https://raw.githubusercontent.com/oskarkonitz/MatiPhobiaUpdate/main/Map002.json
 <End of Version>
