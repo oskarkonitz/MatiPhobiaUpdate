@@ -2,5 +2,6 @@
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"People1","classId":1,"equips":[1,0,0,0,0],"faceIndex":6,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mati","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[1,0,0,0,0],"faceIndex":7,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Barel","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":1,"characterName":"People4","classId":1,"equips":[1,0,0,0,0],"faceIndex":2,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Piszczel","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"People4","classId":1,"equips":[1,0,0,0,0],"faceIndex":2,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Piszczel","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"People2","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"evil2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maro","nickname":"","note":"","profile":""}
 ]
